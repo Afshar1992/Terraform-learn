@@ -7,3 +7,5 @@
 
 # tf vriable files, may include sensitive data
 *.tfvarsTerraform-learn/
+Terraform-learn/
+terraform.tfvars
