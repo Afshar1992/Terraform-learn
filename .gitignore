@@ -6,4 +6,6 @@
 *.tfstate.*
 
 # tf vriable files, may include sensitive data
-*.tfvars
+*.tfvarsTerraform-learn/
+Terraform-learn/
+terraform.tfvars
